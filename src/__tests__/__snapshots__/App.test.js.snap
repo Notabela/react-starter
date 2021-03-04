@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test App matches home pages snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <svg
+        class="App-logo"
+      >
+        logo.svg
+      </svg>
+      <h1
+        class="App-win"
+      >
+        This is React!
+      </h1>
+      <button
+        class="App-button"
+      >
+        Toggle
+      </button>
+    </header>
+  </div>
+</DocumentFragment>
+`;
